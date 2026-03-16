@@ -79,8 +79,14 @@ BUG 10 FIX (score off): Using Claude Code suggestions, I removed the +1 in the w
 
 ## 📸 Demo
 
+Winning Game Screenshot:
+
 ![Winning Game Screenshot](image.png)
 
+Stretch Features - Challenge 1: Advanced Edge-Case Testing
+Screenshot of 3 passed pytest cases (last 3 PASSED messages):
+
+![Passed pytest cases Screenshot](image-1.png)
 
 ## 🚀 Stretch Features
 
